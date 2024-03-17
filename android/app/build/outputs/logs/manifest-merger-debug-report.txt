@@ -1,16 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:1:1-25:12
-MERGED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:1:1-25:12
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:1:1-28:12
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:flipper-integration:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/7ceec762c322db3b2ee74240d8e71306/transformed/jetified-flipper-integration-0.73.6-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] /Users/sitanshumustafi/Development/giphy-kc/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/AndroidManifest.xml:2:1-24:12
 MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/2b5ba21ddda073e33e012f0d689623c6/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:8:1-13:12
 MERGED from [com.facebook.fresco:flipper:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/78a2f7f2f5ffb04c17532765310fabea/transformed/jetified-flipper-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/73ba53becf6a818dacbfe76ccb7dfd5a/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/78816c54b596e77b24ddd4d407d9d3f7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:animated-gif:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/ed183178643ef5cd24adc59d95a652af/transformed/jetified-animated-gif-3.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:animated-webp:2.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/b8253fe4a79800a82e1d74e3802e7a18/transformed/jetified-animated-webp-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/4fabe7631ed32b54f1117b50fea30540/transformed/jetified-animated-base-3.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:animated-drawable:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/f9dc593fac4e33873ee23eaefe043806/transformed/jetified-animated-drawable-3.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:vito-options:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/3a2563923310ad6de7aaa5deccbdb382/transformed/jetified-vito-options-3.1.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/ec5ffae71883a2ffe61d9bb0ecd6125b/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/f47c646146e0a916b229951b5277ec72/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/9463ade28057419e742a85d1eb83c573/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:2:1-7:12
@@ -18,6 +24,7 @@ MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/sitanshumustafi/
 MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/c5fbdd7e5fcfdaf5ce16f3f875e3e6a8/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/a47a4e08eda3385848d214641bc7b9d8/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/a87cda0c4aab8edddd525f59ec5d6ecf/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/1175e4f7131d659bbcc76f9cabd17af3/transformed/jetified-webpsupport-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/7cc434b4f1d90ca6b4967888f3cd4218/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/be2b599ee25b72ff91792f062e90e7d1/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/7a9c524454ec247ef6b3d4f6fb3068fc/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:2:1-7:12
@@ -34,6 +41,7 @@ MERGED from [androidx.activity:activity:1.6.0] /Users/sitanshumustafi/.gradle/ca
 MERGED from [androidx.loader:loader:1.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/6ba283a3244530bbd4580a31b408c1c9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sitanshumustafi/.gradle/caches/transforms-3/aa8b400e3fa62f6a4287be6e71a3821f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sitanshumustafi/.gradle/caches/transforms-3/0c17d1aa2ccc813649d410d5ca1839aa/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:vito-renderer:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/4715c7016ba5e56a627f0ffc667c058f/transformed/jetified-vito-renderer-3.1.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:hermes-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/633188b2fe96cfe864e8a484846e336e/transformed/jetified-hermes-android-0.73.6-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/699d8495cfbcf29796d79737ecf7fe4f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/5b356190bdf4bb7065067fc153a69c6d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -74,15 +82,19 @@ MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/sitanshumu
 	xmlns:android
 		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:3:5-67
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:3:3-65
 MERGED from [com.facebook.flipper:flipper:0.201.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:13:5-67
 MERGED from [com.facebook.flipper:flipper:0.201.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:3:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:4:20-74
 application
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:7:5-27:19
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:5:5-8:50
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/AndroidManifest.xml:18:5-22:19
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/AndroidManifest.xml:18:5-22:19
@@ -105,59 +117,61 @@ MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/sitanshumustafi/.grad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:7:7-39
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:10:7-39
 	tools:ignore
 		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:8:9-48
 	android:roundIcon
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:9:7-52
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:12:7-52
 	tools:targetApi
 		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:7:9-29
 	android:icon
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:8:7-41
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:11:7-41
 	android:allowBackup
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:10:7-34
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:13:7-34
 	android:theme
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:11:7-38
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml:6:9-44
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:8:7-42
 	android:name
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:6:7-38
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:9:7-38
 activity#com.giphy.MainActivity
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:12:7-23:18
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:15:7-26:18
 	android:label
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:launchMode
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:19:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:20:9-51
 	android:exported
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:18:9-32
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:21:9-32
 	android:configChanges
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:15:9-118
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:18:9-118
 	android:name
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:13:9-37
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:16:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:22:9-25:25
 action#android.intent.action.MAIN
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:23:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:24:13-73
 	android:name
-		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/main/AndroidManifest.xml:24:23-70
 uses-sdk
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/sitanshumustafi/Development/giphy-kc/android/app/src/debug/AndroidManifest.xml
 MERGED from [com.facebook.react:flipper-integration:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/7ceec762c322db3b2ee74240d8e71306/transformed/jetified-flipper-integration-0.73.6-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:flipper-integration:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/7ceec762c322db3b2ee74240d8e71306/transformed/jetified-flipper-integration-0.73.6-debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/sitanshumustafi/Development/giphy-kc/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/sitanshumustafi/Development/giphy-kc/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/2b5ba21ddda073e33e012f0d689623c6/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:11:5-44
@@ -168,6 +182,16 @@ MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/sitanshumustafi/.gradle/ca
 MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/73ba53becf6a818dacbfe76ccb7dfd5a/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/78816c54b596e77b24ddd4d407d9d3f7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/78816c54b596e77b24ddd4d407d9d3f7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-gif:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/ed183178643ef5cd24adc59d95a652af/transformed/jetified-animated-gif-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-gif:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/ed183178643ef5cd24adc59d95a652af/transformed/jetified-animated-gif-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-webp:2.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/b8253fe4a79800a82e1d74e3802e7a18/transformed/jetified-animated-webp-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/b8253fe4a79800a82e1d74e3802e7a18/transformed/jetified-animated-webp-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/4fabe7631ed32b54f1117b50fea30540/transformed/jetified-animated-base-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-base:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/4fabe7631ed32b54f1117b50fea30540/transformed/jetified-animated-base-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-drawable:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/f9dc593fac4e33873ee23eaefe043806/transformed/jetified-animated-drawable-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-drawable:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/f9dc593fac4e33873ee23eaefe043806/transformed/jetified-animated-drawable-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-options:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/3a2563923310ad6de7aaa5deccbdb382/transformed/jetified-vito-options-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-options:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/3a2563923310ad6de7aaa5deccbdb382/transformed/jetified-vito-options-3.1.0/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/ec5ffae71883a2ffe61d9bb0ecd6125b/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/ec5ffae71883a2ffe61d9bb0ecd6125b/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/f47c646146e0a916b229951b5277ec72/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
@@ -182,6 +206,8 @@ MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/sitanshumustaf
 MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/a47a4e08eda3385848d214641bc7b9d8/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/a87cda0c4aab8edddd525f59ec5d6ecf/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/a87cda0c4aab8edddd525f59ec5d6ecf/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/1175e4f7131d659bbcc76f9cabd17af3/transformed/jetified-webpsupport-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/1175e4f7131d659bbcc76f9cabd17af3/transformed/jetified-webpsupport-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/7cc434b4f1d90ca6b4967888f3cd4218/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/7cc434b4f1d90ca6b4967888f3cd4218/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/sitanshumustafi/.gradle/caches/transforms-3/be2b599ee25b72ff91792f062e90e7d1/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
@@ -214,6 +240,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sitanshumustaf
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/sitanshumustafi/.gradle/caches/transforms-3/aa8b400e3fa62f6a4287be6e71a3821f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sitanshumustafi/.gradle/caches/transforms-3/0c17d1aa2ccc813649d410d5ca1839aa/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/sitanshumustafi/.gradle/caches/transforms-3/0c17d1aa2ccc813649d410d5ca1839aa/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:vito-renderer:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/4715c7016ba5e56a627f0ffc667c058f/transformed/jetified-vito-renderer-3.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-renderer:3.1.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/4715c7016ba5e56a627f0ffc667c058f/transformed/jetified-vito-renderer-3.1.0/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:hermes-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/633188b2fe96cfe864e8a484846e336e/transformed/jetified-hermes-android-0.73.6-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:hermes-android:0.73.6] /Users/sitanshumustafi/.gradle/caches/transforms-3/633188b2fe96cfe864e8a484846e336e/transformed/jetified-hermes-android-0.73.6-debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/sitanshumustafi/.gradle/caches/transforms-3/699d8495cfbcf29796d79737ecf7fe4f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
